@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "bJt_FjWRUmuRyc3xbdLj9",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "NFGT2_FrSIM8Ot3SngNQ6"
+  ]
+}
