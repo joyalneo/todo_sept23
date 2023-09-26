@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/joyalneo/todo_sept23.git",
+    "ssh": "git@github.com:joyalneo/todo_sept23.git",
+    "branch": "block_listTodos"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "listTodos",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "m4XlaitbiN6gYMF2laofR",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "NFGT2_FrSIM8Ot3SngNQ6"
+  ]
+}
