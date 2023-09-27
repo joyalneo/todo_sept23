@@ -8,22 +8,34 @@
   },
   "dependencies": {
     "listTodos": {
-      "directory": "listTodos"
+      "directory": "listTodos",
+      "versionId": "N_UGaNxtqFlMcH7rm_0zX",
+      "version": "0.0.2"
     },
     "addTodo": {
-      "directory": "addTodo"
+      "directory": "addTodo",
+      "versionId": "krB4uHJ7yhFwtaFG5Z_5Z",
+      "version": "0.0.2"
     },
     "removeTodo": {
-      "directory": "removeTodo"
+      "directory": "removeTodo",
+      "versionId": "PfE01loq0XPgiLdAgrbPJ",
+      "version": "0.0.2"
     },
     "todoItem": {
-      "directory": "todoItem"
+      "directory": "todoItem",
+      "versionId": "w8zHe4XKi2U_8n06mRfKe",
+      "version": "0.0.2"
     },
     "todoInput": {
-      "directory": "todoInput"
+      "directory": "todoInput",
+      "versionId": "-8g4sIMh09u8l_771-3OX",
+      "version": "0.0.2"
     },
     "todoContainer": {
-      "directory": "todoContainer"
+      "directory": "todoContainer",
+      "versionId": "km2ocZ23u70Us5wVI-WBW",
+      "version": "0.0.2"
     }
   },
   "blockId": "NFGT2_FrSIM8Ot3SngNQ6",
@@ -32,5 +44,7 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "version": "0.0.3",
+  "versionId": "X-wqqj54y4BO7aHRy16Tc"
 }
