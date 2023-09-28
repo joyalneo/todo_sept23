@@ -6,8 +6,8 @@ services:
     command: >
       sh -c "bb start -bo -env preview && tail -f /dev/null"
     env_file:
-      - .env.function
-      - .env.view
+      - .env.function.preview
+      - .env.view.preview
     ports:
       - 5000:5000
     volumes:
